@@ -6,5 +6,4 @@ class TestDemo:
 
     def test_fun2(self):
         print("dd")
-
-    assert 0
+    assert 1
